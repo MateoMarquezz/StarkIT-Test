@@ -1,0 +1,6 @@
+C:\Users\mateo\Documents\Pruebas tecnicas\Prueba StarkIT\Starkit.TechnicalTest.Names.API\Starkit.Test.NamesApi\App.UnitTest\obj\Debug\net8.0\App.UnitTest.csproj.AssemblyReference.cache
+C:\Users\mateo\Documents\Pruebas tecnicas\Prueba StarkIT\Starkit.TechnicalTest.Names.API\Starkit.Test.NamesApi\App.UnitTest\obj\Debug\net8.0\App.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Documents\Pruebas tecnicas\Prueba StarkIT\Starkit.TechnicalTest.Names.API\Starkit.Test.NamesApi\App.UnitTest\obj\Debug\net8.0\App.UnitTest.AssemblyInfoInputs.cache
+C:\Users\mateo\Documents\Pruebas tecnicas\Prueba StarkIT\Starkit.TechnicalTest.Names.API\Starkit.Test.NamesApi\App.UnitTest\obj\Debug\net8.0\App.UnitTest.AssemblyInfo.cs
+C:\Users\mateo\Documents\Pruebas tecnicas\Prueba StarkIT\Starkit.TechnicalTest.Names.API\Starkit.Test.NamesApi\App.UnitTest\obj\Debug\net8.0\App.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Documents\Pruebas tecnicas\Prueba StarkIT\Starkit.TechnicalTest.Names.API\Starkit.Test.NamesApi\App.UnitTest\obj\Debug\net8.0\App.UnitTest.sourcelink.json
